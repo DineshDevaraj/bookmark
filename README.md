@@ -5,4 +5,4 @@ I use this repository to bookmark and organize projects that I am interested
 Place : Velayuthampalayam - Karur<br/>
 Source : https://news.ycombinator.com/<br/>
 Title : Tiny assembler for 8086/8088, able to run over DOS for 8086/8088 machines<br/>
-URL : https://github.com/nanochess/tinyasm/
+Github : https://github.com/nanochess/tinyasm/
