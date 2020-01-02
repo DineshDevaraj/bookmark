@@ -1,4 +1,3 @@
-
 1. Date : 02/Jan/2020 - Thursday<br/>
 Place : Velayuthampalayam - Karur<br/>
 Source : https://news.ycombinator.com/<br/>
