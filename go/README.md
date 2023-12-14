@@ -2,4 +2,5 @@
 
     Date: 14/Dec/2023 - Thursday    
     Place: Ottiambakkam - Chennai  
-    Source: https://github.com/rochus-keller/CspChan 
+    Link: https://github.com/rochus-keller/CspChan
+    Source: https://news.ycombinator.com/
